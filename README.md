@@ -11,27 +11,27 @@ Here we have project screenshot :
 
 
 Front Page:
-![screenshot](sky3.png)
+![screenshot](web.png)
 
 
 Login :
-![screenshot](sky4.png)
+![screenshot](web2.png)
 
 Registration :
-![screenshot](sky5.png)
+![screenshot](web3.png)
 
 Login :
-![screenshot](sky1.png)
+![screenshot](web4.png)
 
 
 Registration :
-![screenshot](sky2.png)
+![screenshot](web5.png)
 
 
 
 
 Raw Image:
-![screenshot](sleepy-mountains-5k-87.jpg)
+![screenshot](its-beginning-4k-wv-3840x2160.jpg.jpg)
 
 
 # Features:
