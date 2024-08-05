@@ -31,7 +31,7 @@ Registration :
 
 
 Raw Image:
-![screenshot](its-beginning-4k-wv-3840x2160.jpg.jpg)
+![screenshot](its-beginning-4k-wv-3840x2160.jpg)
 
 
 # Features:
