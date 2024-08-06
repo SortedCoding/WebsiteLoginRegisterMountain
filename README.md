@@ -15,7 +15,7 @@ Front Page:
 
 
 Login :
-![screenshot](web2.png)
+![screenshot](Web2.png)
 
 Registration :
 ![screenshot](web3.png)
